@@ -1,4 +1,4 @@
-# Latencyzero Public
+# Latency: Zero, LLC Public brew.sh Tap
 
 ## How do I install these formulae?
 
